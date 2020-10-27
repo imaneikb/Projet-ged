@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91a8622-394d-47c3-bf99-66ea6bba40c4" name="Default Changelist" comment="" />
+    <list default="true" id="d91a8622-394d-47c3-bf99-66ea6bba40c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Iman Ikbane" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iY9uvfRJxNiBfI4nYy52J15VsO" />
@@ -29,13 +36,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -75,12 +82,24 @@
       <workItem from="1603483814595" duration="3425000" />
       <workItem from="1603691969385" duration="296000" />
       <workItem from="1603731168186" duration="2408000" />
-      <workItem from="1603822554567" duration="3358000" />
+      <workItem from="1603822554567" duration="6181000" />
     </task>
+    <task id="LOCAL-00001" summary="my project">
+      <created>1603829538790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603829538790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my project" />
+    <option name="LAST_COMMIT_MESSAGE" value="my project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="90" key="#Inspections" timestamp="1603245292108">
@@ -103,14 +122,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603829330386" />
+    <state x="170" y="0" key="CommitChangelistDialog2" timestamp="1603831678915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="170" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603831678915" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1603265967651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1603265967651" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1603829283875">
+    <state x="21" y="99" key="DiffContextDialog" timestamp="1603831658732">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603829283875" />
+    <state x="21" y="99" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1603831658732" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1603831387712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603831387712" />
     <state x="595" y="135" key="NewPhpClassDialog" timestamp="1602425253729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -119,6 +146,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1603422603583" />
+    <state x="386" y="114" key="RollbackChangesDialog" timestamp="1603831629405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603831629405" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1603829285175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -127,10 +158,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="244" height="441" key="SqlResolveConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1602859690536" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603829314479">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603831563716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603829314479" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603831563716" />
+    <state x="569" y="313" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603831493856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="313" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603831493856" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1602831412761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
